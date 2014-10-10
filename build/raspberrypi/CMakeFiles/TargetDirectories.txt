@@ -1,0 +1,3 @@
+/home/megaf/MinetestPi-Raspbian/build/raspberrypi/src/CMakeFiles/GenerateVersion.dir
+/home/megaf/MinetestPi-Raspbian/build/raspberrypi/src/json/CMakeFiles/jsoncpp.dir
+/home/megaf/MinetestPi-Raspbian/build/raspberrypi/src/CMakeFiles/minetest.dir
